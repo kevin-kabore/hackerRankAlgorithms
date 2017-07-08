@@ -24,7 +24,7 @@
 // 0.333333
 // 0.166667
 
-unction main() {
+function main() {
     var n = parseInt(readLine());
     arr = readLine().split(' ');
     arr = arr.map(Number);
